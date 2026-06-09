@@ -120,9 +120,6 @@ Or use the Live Server extension:
 
 Kidist Belay Getachew
 
-## 📄 License
-
-This project is open-source and available for learning and educational purposes.
 
 
 
